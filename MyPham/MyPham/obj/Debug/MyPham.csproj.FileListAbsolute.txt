@@ -1,0 +1,1163 @@
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\MyPham.dll.config
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\MyPham.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\MyPham.pdb
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\csc.exe
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\csc.exe.config
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\csc.rsp
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\csi.exe
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\csi.exe.config
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\csi.rsp
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Console.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\vbc.exe
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\vbc.exe.config
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\vbc.rsp
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\Antlr3.Runtime.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\EntityFramework.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\Newtonsoft.Json.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Helpers.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Mvc.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Optimization.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Razor.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.WebPages.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\WebGrease.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\EntityFramework.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Helpers.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Mvc.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Optimization.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.Razor.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.WebPages.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\Newtonsoft.Json.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\obj\Debug\MyPham.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\obj\Debug\MyPham.pdb
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\BotDetect.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Data.SQLite.dll
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\bin\System.Data.SQLite.xml
+D:\HocKy6.5\BTL\BTL\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\MyPham.dll.config
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\MyPham.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\MyPham.pdb
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\csc.exe
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\csc.exe.config
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\csc.rsp
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\csi.exe
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\csi.exe.config
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\csi.rsp
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Console.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\vbc.exe
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\vbc.exe.config
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\vbc.rsp
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\Antlr3.Runtime.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\BotDetect.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\EntityFramework.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\Newtonsoft.Json.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Data.SQLite.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Helpers.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Mvc.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Optimization.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Razor.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.WebPages.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\WebGrease.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\EntityFramework.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Data.SQLite.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Helpers.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Mvc.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Optimization.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.Razor.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.WebPages.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\Newtonsoft.Json.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\obj\Debug\MyPham.dll
+D:\HocKy6.5\BTL\Thư mục mới\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\ASP.NET\Bài tập lớn\test\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\BTL_ASP\BTL_ASP\BTL_ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.AssemblyReference.cache
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\ASP.NET\Bài tập lớn\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+D:\HocKy6.5\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\ASP.NET\BaiTapLon\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+E:\ASP.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL ASP\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.AssemblyReference.cache
+E:\Code\APS.NET\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+E:\Code\APS.NET\BTL\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\MyPham.dll.config
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\MyPham.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\MyPham.pdb
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Collections.Immutable.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\BotDetect.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\BotDetect.Web.Mvc.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\EntityFramework.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\Microsoft.Web.Infrastructure.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\WebGrease.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\EntityFramework.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\EntityFramework.SqlServer.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Data.SQLite.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Helpers.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Mvc.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Optimization.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.Razor.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Deployment.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\System.Web.WebPages.Razor.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\Newtonsoft.Json.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\Antlr3.Runtime.pdb
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CoreCompileInputs.cache
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csproj.CopyComplete
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.pdb
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\obj\Debug\MyPham.csprojAssemblyReference.cache
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.exe.config
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\csc.rsp
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.exe.config
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\csi.rsp
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.AppContext.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Console.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Http.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Net.Sockets.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.ValueTuple.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.exe.config
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\vbc.rsp
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe
+D:\HocKy6.5\BTL_ASP\MyPham\MyPham\bin\roslyn\VBCSCompiler.exe.config
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.dll
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.xml
+D:\HocOnline_2021\ASP.NET\BTL_ASP\BTL_ASP\MyPham\MyPham\bin\PagedList.Mvc.xml

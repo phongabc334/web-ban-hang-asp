@@ -1,0 +1,101 @@
+﻿@model PagedList.IPagedList<MyPham.Models.SanPham>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "TimKiem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewBag.Thongbao != null)
+{
+    @ViewBag.Thongbao;
+}
+else
+{
+    <main id="main" class="">
+
+        <div class="row category-page-row" style="display: flex; justify-content: center;">
+            <div class="col large-9">
+                <div class="shop-container">
+
+                    <div class="woocommerce-notices-wrapper"></div>
+                    <div class="products row row-small large-columns-4 medium-columns-3 small-columns-2 has-equal-box-heights equalize-box">
+                        @foreach (var item in Model)
+                        {
+                            string ImagePath = "~/wwwroot/images/SanPham/" + item.AnhSP;
+                            double giagiam = (Convert.ToDouble(@item.Gia) - Convert.ToDouble(@item.Gia) * (@item.GiamGia.HasValue ? @item.GiamGia.Value : 0.0));
+                            giagiam = Math.Round(giagiam / 1000) * 1000;
+                            double giam = (item.GiamGia.HasValue ? item.GiamGia.Value : 0) * 100;
+                            <div class="product-small col has-hover product type-product post-7098 status-publish first instock product_cat-bo-duong-da product_cat-my-pham-duong-da has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+
+                                    <div class="absolute left top z-1">
+                                        <div class="callout badge badge-circle">
+                                            <div class="badge-inner secondary on-sale"><span class="onsale">-@giam %</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-zoom">
+                                                <a href="@Url.Action("SanPham","SanPham", new { id = item.MaSP })">
+                                                    <img width="247" height="247" src="@Url.Content(ImagePath)"
+                                                         class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"
+                                                         sizes="(max-width: 247px) 100vw, 247px" />
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover">
+                                            </div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover">
+                                            </div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                            </div>
+                                        </div>
+
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title woocommerce-loop-product__title"><a href="@Url.Action("SanPham","SanPham", new { id = item.MaSP })" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">@item.TenSP</a></p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">
+                                                            <bdi>@String.Format("{0:#,###}", @item.Gia)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi>
+                                                        </span>
+                                                    </del> <ins><span class="woocommerce-Price-amount amount"><bdi>@String.Format("{0:#,###}", @giagiam)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <!-- row -->
+                    <div class="container">
+                        <nav class="woocommerce-pagination">
+                            @Html.PagedListPager(Model, page => Url.Action("TimKiem", new { ViewBag.strSearch, page }), new PagedListRenderOptions()
+                            {
+                                LiElementClasses = new string[] { "page-number" },
+                                UlElementClasses = new string[] { "page-numbers", "nav-pagination", "links", "text-center" }
+                            })
+                            @*<ul class="page-numbers nav-pagination links text-center">
+                                    <li><span aria-current="page" class="page-number current">1</span></li>
+                                    <li><a class="page-number" href="danh-muc.html">2</a></li>
+                                    <li><a class="page-number" href="danh-muc.html">3</a></li>
+                                    <li><a class="page-number" href="danh-muc.html">4</a></li>
+                                    <li><span class="page-number dots">&hellip;</span></li>
+                                    <li><a class="page-number" href="danh-muc.html">34</a></li>
+                                    <li><a class="page-number" href="danh-muc.html">35</a></li>
+                                    <li><a class="page-number" href="danh-muc.html">36</a></li>
+                                    <li><a class="next page-number" href="danh-muc.html"><i class="icon-angle-right"></i></a></li>
+                                </ul>*@
+                        </nav>
+                    </div>
+
+                </div>
+                <!-- shop container -->
+            </div>
+        </div>
+        }
+
+    </main>
+}

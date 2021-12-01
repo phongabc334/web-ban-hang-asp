@@ -1,0 +1,70 @@
+﻿@model List<MyPham.Models.Gio>
+@{
+    ViewBag.Title = "XacNhanThanhToan";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    MyPham.Models.TaiKhoan taiKhoan = new MyPham.Models.TaiKhoan();
+    double Tien = 0;
+    MyPham.Models.HoaDon hoaDon = ViewBag.HoaDon;
+}
+
+
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-7">
+                <p style="font-size: 24px;font-weight: 700;">Chi tiết đơn hàng</p>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Sản phẩm</th>
+                            <th scope="col">Số lượng</th>
+                            <th scope="col">Hình ảnh</th>
+                            <th scope="col">Tổng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            double giagiam = (Convert.ToDouble(@item.sanPham.Gia) - Convert.ToDouble(@item.sanPham.Gia) * (@item.sanPham.GiamGia.HasValue ? @item.sanPham.GiamGia.Value : 0.0));
+                            giagiam = Math.Round(giagiam / 1000) * 1000;
+                            Tien += giagiam * item.soLuong;
+                            String imagePath = "~/wwwroot/images/SanPham/" + item.sanPham.AnhSP;
+                            <tr>
+                                <th scope="row">@item.sanPham.TenSP</th>
+                                <td> @item.soLuong</td>
+                                <td><img width="200" height="auto" src="@Url.Content(imagePath)"</td>
+                                <td>@String.Format("{0:#,###}", item.soLuong * giagiam) đ</td>
+                            </tr>
+                        }
+                    </tbody>
+                    <tr>
+                        <th>Tổng cộng</th>
+                        <td></td>
+                        <td></td>
+                        <td>@String.Format("{0:#,###}", Tien) ₫</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-4">
+                <div class="list-group">
+                    <a href="#" class="list-group-item list-group-item-action active">
+                        Cảm ơn bạn đã đặt hàng
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">Mã đơn hàng: @hoaDon.MaHD</a>
+                    <a href="#" class="list-group-item list-group-item-action">Ngày đặt : @hoaDon.NgayTao </a>
+                    <a href="#" class="list-group-item list-group-item-action">Tổng cộng: @String.Format("{0:#,###}", Tien) ₫</a>
+                    <a href="#" class="list-group-item list-group-item-action disabled">Phương thức thanh toán: @hoaDon.HinhThucThanhToan</a>
+                </div>
+                <div class="form-row place-order mt-3 ml-1">
+                    <a href="@Url.Action("index","Home")"><button type="submit" class="button alt" name="woocommerce_checkout_place_order">Tiếp tục mua hàng</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+<style>
+    th{
+        text-transform:none;
+    }
+</style>

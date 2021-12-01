@@ -1,0 +1,377 @@
+﻿@model MyPham.Models.SanPham
+
+@{
+    ViewBag.Title = "SanPham";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<MyPham.Models.SanPham> abc = ViewBag.sp;
+
+}
+<div class="page-title shop-page-title product-page-title">
+    <div class="page-title-inner flex-row medium-flex-wrap container">
+        <div class="flex-col flex-grow medium-text-center">
+            <div class="is-small">
+                <nav class="woocommerce-breadcrumb breadcrumbs uppercase"><a href="@Url.Action("Index","Home")">Trang chủ</a> <span class="divider">&#47;</span> <a href="@Url.Action("XemSanPhamTheoDanhMuc", "SanPham", new{ id = ViewBag.ma })">@ViewBag.TenDM</a></nav>
+            </div>
+        </div>
+
+        <div class="flex-col medium-text-center">
+        </div>
+    </div>
+</div>
+<div class="shop-container">
+
+    
+    <div class="container">
+        @if (ViewBag.ThongBao != null)
+        {
+            <div class="woocommerce-message message-wrapper">
+                <div class="message-container container success-color medium-text-center">
+                    <i class="icon-checkmark"></i>@ViewBag.ThongBao
+                </div>
+            </div>
+        }
+        </div>
+    <div id="product-6932" class="product type-product post-6932 status-publish first instock product_cat-bo-my-pham-tri-nam-va-tan-nhang has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+        <div class="product-container">
+            @{
+                string ImagePath = "~/wwwroot/images/SanPham/" + Model.AnhSP;
+
+                double giagiam = (Convert.ToDouble(Model.Gia) - Convert.ToDouble(Convert.ToInt32(Model.Gia) * (Model.GiamGia.HasValue ? Model.GiamGia.Value : 0)));
+                giagiam = Math.Round(giagiam / 1000) * 1000;
+                double giam = (Model.GiamGia.HasValue ? Model.GiamGia.Value : 0) * 100;
+            }
+            <div class="product-main">
+                <div class="row content-row mb-0">
+
+                    <div class="product-gallery col large-5">
+
+                        <div class="product-images relative mb-half has-hover woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
+
+                            <div class="image-tools absolute top show-on-hover right z-3">
+                            </div>
+
+                            <figure class="woocommerce-product-gallery__wrapper product-gallery-slider slider slider-nav-small mb-half" data-flickity-options='{
+                "cellAlign": "center",
+                "wrapAround": true,
+                "autoPlay": false,
+                "prevNextButtons":true,
+                "adaptiveHeight": true,
+                "imagesLoaded": true,
+                "lazyLoad": 1,
+                "dragThreshold" : 15,
+                "pageDots": false,
+                "rightToLeft": false       }'>
+                                <div class="woocommerce-product-gallery__image slide first">
+                                    <a href="@Url.Content(ImagePath)">
+                                        <img width="510" height="510" src="@Url.Content(ImagePath)" class="lazy-load wp-post-image skip-lazy"
+                                             alt="" loading="lazy" title="bo-hoang-cung-Danxuenilan-5in1-chinh-hang"
+                                             sizes="(max-width: 510px) 100vw, 510px" />
+                                    </a>
+                                </div>
+                            </figure>
+                        </div>
+
+                    </div>
+
+                    <div class="product-info summary col-fit col entry-summary product-summary">
+                        <h1 class="product-title product_title entry-title">
+                            @Html.DisplayFor(Model => Model.TenSP)
+                        </h1>
+
+                        <div class="is-divider small"></div>
+                        <div class="price-wrapper">
+                            <p class="price product-page-price price-on-sale">
+                                <del><span class="woocommerce-Price-amount amount"><bdi>@String.Format("{0:#,###}", Model.Gia)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del>
+                                <ins><span class="woocommerce-Price-amount amount"><bdi style="font-size:35px">@String.Format("{0:#,###}", @giagiam)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins>
+                                <span class="onsale" style="margin-left: 15px; font-size: .75rem; color: #fff !important; background: #ee4d2d; border-radius: 2px; padding: 5px 10px; font-weight: 600; line-height: 1; white-space: nowrap;">Giảm @String.Format("{0:#,###}", @giam)%</span>
+                            </p>
+                        </div>
+                        <div class="product-short-description">
+                            @if (Model.SoLuongTon > 0)
+                            {
+                                <p><strong>Tình trạng:</strong> Còn hàng</p>
+                            }
+                            @if (Model.SoLuongTon == 0)
+                            {
+                                <p><strong>Tình trạng:</strong> Hết hàng</p>
+                            }
+
+                            @if (Model.ThuongHieu != null)
+                            {<p><strong>Thương hiệu:</strong> @Html.DisplayFor(Model => Model.ThuongHieu)</p>}
+
+                            @if (Model.XuatXu != null)
+                            {<p><strong>Xuất Xứ:</strong> @Html.DisplayFor(Model => Model.XuatXu)</p>}
+
+                            @if (Model.DungTich != null)
+                            {<p><strong>Dung tích:</strong> @Html.DisplayFor(Model => Model.DungTich)</p>}
+
+                            @if (Model.HangSX != null)
+                            {<p><strong>Hãng sản xuất:</strong> @Html.DisplayFor(Model => Model.HangSX)</p>}
+
+                        </div>
+
+
+                        <form class="cart mb-2" method="post" enctype='multipart/form-data' action="@Url.Action("ThemSP", "GioHang", new { MaSP = Model.MaSP })">
+                            <div class="row pb-2">
+                                <div class="col-md-3 pt-3 ml-2">Số lượng</div>
+                                <div class="col-md-5 quantity buttons_added">
+                                    <input type="button" value="-" class="minus button is-form">
+                                    <input type="number" id="quantity_60d19c138f0b1" class="input-text qty text" step="1" min="1" max="@Model.SoLuongTon" name="SoLuong" value="1" title="SL" size="4" placeholder="" inputmode="numeric" readonly />
+                                    <input type="button" value="+" class="plus button is-form">
+                                </div>
+                            </div>
+                            <button type="submit" name="add-to-cart" value="6932" class="single_add_to_cart_button button alt">Thêm vào giỏ hàng</button>
+
+                        </form>
+
+
+                        <aside class="promo-online">
+                            <span class="" data-id="365501">
+                                <i class="far fa-check-square"></i> Cam kết không bán hàng không rõ nguồn gốc, xuất xứ
+                            </span>
+                            <br>
+                            <span class="" data-id="365501">
+                                <i class="far fa-check-square"></i> Cam kết: Hình ảnh sản phẩm được chụp từ mẫu thực.
+                            </span>
+                        </aside>
+
+                        <div class="product_meta">
+
+
+
+                            <span class="sku_wrapper">Mã: <span class="sku">@Html.DisplayFor(Model => Model.MaSP)</span></span>
+
+
+                            <span class="posted_in">Danh mục: <a href="@Url.Action("XemSanPhamTheoDanhMuc", "SanPham", new{ id = ViewBag.ma})" rel="tag">@ViewBag.TenDM</a></span>
+
+
+                        </div>
+
+                    </div>
+                    <div id="product-sidebar" class="col large-3 hide-for-medium product-sidebar-small">
+                        <div class="row tieu-chi-sidebar" id="row-1179559846">
+
+
+                            <div id="col-1076857932" class="col div-cam-ket small-12 large-12">
+                                <div class="col-inner">
+
+
+
+                                    <aside id="custom_html-13" class="widget_text widget widget_custom_html">
+                                        <span class="widget-title shop-sidebar">Cam Kết Mua Hàng</span></p>
+                                        <div class="is-divider small"></div>
+                                        <div class="textwidget custom-html-widget">
+                                            <ul class="list-camket">
+                                                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Cam kết 100% hàng chính hãng. </li>
+                                                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Nhân viên tư vấn tận tình, chu đáo. </li>
+                                                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Xem hàng kiểm tra hàng trước khi thanh toán. </li>
+                                                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Cam kết bồi hoàn 200% nếu sản phẩm kém chất lượng, ko rõ nguồn gốc . </li>
+                                            </ul>
+                                            <div class="vt-vanc">
+                                                <strong>Đơn vị vận chuyển</strong><br />
+                                                <img src="~/wwwroot/images/2021/01/giao-hang.jpg">
+                                            </div>
+                                        </div>
+                                    </aside>
+
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+
+            <div class="product-footer">
+                <div class="row">
+                    <div class="large-12">
+                        <div class="container">
+                            <div class="product-page-accordian">
+                                <div class="san-pham-tab">
+                                    <div>
+                                        <h3 class="tab-thong-tin">
+
+                                            Mô tả
+                                        </h3>
+                                        <div class="tab-thong-tin-trong">
+
+
+                                            <h2 style="text-align: center;">@Html.DisplayFor(Model => Model.TenSP)</h2>
+                                            @if (Model.ThuongHieu != null)
+                                            {<p><strong>Thương hiệu:</strong> @Html.DisplayFor(Model => Model.ThuongHieu)</p>}
+
+                                            @if (Model.XuatXu != null)
+                                            {<p><strong>Xuất Xứ:</strong> @Html.DisplayFor(Model => Model.XuatXu)</p>}
+
+                                            @if (Model.DungTich != null)
+                                            {<p><strong>Dung tích:</strong> @Html.DisplayFor(Model => Model.DungTich)</p>}
+
+                                            @if (Model.HangSX != null)
+                                            {<p><strong>Hãng sản xuất:</strong> @Html.DisplayFor(Model => Model.HangSX)</p>}
+
+                                            @if (Model.TrongLuong != null)
+                                            {<p><strong>Trọng lượng:</strong> @Html.DisplayFor(Model => Model.TrongLuong)</p>}
+
+                                            @if (Model.ChatLieu != null)
+                                            {
+                                                <h3>Chất liệu</h3>
+                                                String[] slipt = Model.ChatLieu.Split(new Char[] { '–' });
+                                                foreach (var item in slipt)
+                                                {
+
+                                                    if (item.Trim() != "")
+                                                    {
+                                                        <p>-@item</p>
+                                                    }
+                                                }
+                                            }
+
+                                            <p>
+                                                <a href="@Url.Content(ImagePath)">
+                                                    <img width="510" height="510" src="@Url.Content(ImagePath)" class="lazy-load wp-post-image skip-lazy"
+                                                         alt="" loading="lazy" title="bo-hoang-cung-Danxuenilan-5in1-chinh-hang"
+                                                         sizes="(max-width: 510px) 100vw, 510px" />
+                                                </a>
+                                            </p>
+
+                                            @if (Model.ThanhPhan != null)
+                                            {
+                                                <h3>Thành phần</h3>
+                                                String[] slipt = Model.ThanhPhan.Split(new Char[] { '–' });
+                                                foreach (var item in slipt)
+                                                {
+                                                    if (item.Trim() != "")
+                                                    {
+                                                        <p>-@item</p>
+                                                    }
+                                                }
+                                            }
+
+
+                                            @if (Model.CongDung != null)
+                                            {
+                                                <h3>Công dụng :</h3>
+                                                String[] slipt = Model.CongDung.Split(new Char[] { '–' });
+                                                foreach (var item in slipt)
+                                                {
+
+                                                    if (item.Trim() != "")
+                                                    {
+                                                        <p>-@item</p>
+                                                    }
+                                                }
+                                            }
+
+                                            @if (Model.HuongDanSD != null)
+                                            {
+                                                <h3>Hướng dẫn sử dụng</h3>
+                                                String[] slipt = Model.HuongDanSD.Split(new Char[] { '–' });
+                                                foreach (var item in slipt)
+                                                {
+
+                                                    if (item.Trim() != "")
+                                                    {
+                                                        <p>-@item</p>
+                                                    }
+                                                }
+                                            }
+
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="related related-products-wrapper product-section">
+
+                                <h3 class="product-section-title product-section-title-related pt-half pb-half uppercase">
+                                    Sản phẩm tương tự
+                                </h3>
+
+
+
+
+                                <div style="margin-left:0 !important" class="row equalize-box large-columns-4 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-reveal slider-nav-push" data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : false}'>
+
+
+
+
+                                    @foreach (var item in abc)
+                                    {
+
+
+                                        string ImagePath1 = "~/wwwroot/images/SanPham/" + item.AnhSP;
+                                        double giagiam1 = (Convert.ToDouble(@item.Gia) - Convert.ToDouble(@item.Gia) * (@item.GiamGia.HasValue ? @item.GiamGia.Value : 0.0));
+                                        giagiam1 = Math.Round(giagiam1 / 1000) * 1000;
+                                        double giam1 = (item.GiamGia.HasValue ? item.GiamGia.Value : 0) * 100;
+                                        <div class="product-small col has-hover product type-product post-1441 status-publish instock product_cat-bo-my-pham-tri-nam-va-tan-nhang has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+
+                                            <div class="col">
+                                                <div class="col-inner">
+
+                                                    <div class="badge-container absolute left top z-1">
+                                                        <div class="callout badge badge-circle">
+                                                            <div class="badge-inner secondary on-sale"><span class="onsale">- @giam1 %</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-small box has-hover box-normal box-text-bottom">
+                                                        <div class="box-image">
+                                                            <div class="">
+                                                                <a href="@Url.Action("SanPham","SanPham",new {id = item.MaSP })">
+                                                                    <img width="247" height="247" style="max-height:247px"  src="@Url.Content(ImagePath1)" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="" sizes="(max-width: 247px) 100vw, 247px" />
+                                                                </a>
+                                                            </div>
+                                                            <div class="image-tools top right show-on-hover">
+                                                            </div>
+                                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="box-text text-left">
+                                                            <div class="title-wrapper">
+                                                                <p class="name product-title woocommerce-loop-product__title"><a href="@Url.Action("SanPham","SanPham",new {id = item.MaSP })" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">@item.TenSP</a></p>
+                                                            </div>
+                                                            <div class="price-wrapper">
+                                                                <span class="price">
+                                                                    <del>
+                                                                        <span class="woocommerce-Price-amount amount">
+                                                                            <bdi>@String.Format("{0:#,###}", @item.Gia)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi>
+                                                                        </span>
+                                                                    </del> <ins><span class="woocommerce-Price-amount amount"><bdi>@String.Format("{0:#,###}", @giagiam1)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+
+                                    }
+
+
+
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+</div>

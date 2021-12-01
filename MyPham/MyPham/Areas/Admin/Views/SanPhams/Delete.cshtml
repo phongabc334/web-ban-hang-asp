@@ -1,0 +1,198 @@
+﻿@model MyPham.Models.SanPham
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin">
+                <div class="d-flex justify-content-between flex-wrap">
+                    <div class="d-flex align-items-end flex-wrap">
+                        <div class="mr-md-3 mr-xl-5">
+                            <h2>Xin chào, Admin</h2>
+                            <div class="d-flex">
+                                <i class="mdi mdi-home text-muted hover-cursor"></i>
+                                <p class="text-muted mb-0 hover-cursor">&nbsp;/&nbsp;Quản lý sản phẩm&nbsp;&nbsp;/&nbsp;Thông tin chi tiết sản phẩm</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 grid-margin">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Xoá sản phẩm</h4>
+                    <form class="form-sample">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label"><b>Ảnh sản phẩm</b></label>
+                                    <div class="col-sm-9">
+                                        @{
+                                            //Lấy đường dẫn file ảnh
+                                            string ImagePath = "~/wwwroot/images/SanPham/" + Model.AnhSP;
+                                        }
+                                        <img src="@Url.Content(ImagePath)" width="300" class="" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Thuộc danh mục:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label"> @Html.DisplayFor(model => model.DanhMucSP.TenDM)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Giá sản phẩm:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@String.Format("{0:#,###}", model.Gia)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Tên sản phẩm:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">  @Html.DisplayFor(model => model.TenSP)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Số lượng tồn:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.SoLuongTon)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Thương hiệu:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.ThuongHieu)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Xuất xứ:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.XuatXu)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Dung tích:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.DungTich)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Hãng sản xuất:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label"> @Html.DisplayFor(model => model.HangSX)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Trọng lượng:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.TrongLuong)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Chất liệu:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.ChatLieu)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Thành phần:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.ThanhPhan)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Công dụng:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.CongDung)</label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Hướng dẫn sử dụng:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.HuongDanSD)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Quy cách đóng gói:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label">@Html.DisplayFor(model => model.QuyCachDongGoi)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-3 col-form-label">Giảm giá:</label>
+                                    <div class="col-sm-9">
+                                        <label class="col-form-label"> @Html.DisplayFor(model => model.GiamGia)</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-actions no-color">
+                            <input type="submit" value="Xóa" class="btn btn-default" /> |
+                            @Html.ActionLink("Quay lại", "Index")
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alert  alert-danger" role="alert">@ViewBag.Error</div>
+}
+

@@ -1,0 +1,154 @@
+﻿
+@{
+    ViewBag.Title = "ThemPhanQuyen";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-md-12 grid-margin">
+            <div class="d-flex justify-content-between flex-wrap">
+                <div class="d-flex align-items-end flex-wrap">
+                    <div class="mr-md-3 mr-xl-5">
+                        <h2>Xin chào, Admin</h2>
+                        <div class="d-flex">
+                            <i class="mdi mdi-home text-muted hover-cursor"></i>
+                            <p class="text-muted mb-0 hover-cursor">&nbsp;/&nbsp;Quản lý phân quyền&nbsp;&nbsp;/&nbsp;Thêm phân quyền</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Thêm phân quyền</h4>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Tên quyền *</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" />
+                    </div>
+                </div>
+                <h4 class="card-title">Thiết lập phân quyền</h4>
+                <div class="table-responsive pt-3">
+                    <table id="recent-purchases-listing" class="table text-center">
+                        <thead>
+                            <tr>
+                                <th>
+                                    #
+                                </th>
+                                <th>
+                                    Chức năng quản lý
+                                </th>
+                                <th>
+                                    Xem
+                                </th>
+                                <th>
+                                    Quản lý (Thêm, sửa)
+                                </th>
+                                <th>Xóa</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    1
+                                </td>
+                                <td>
+                                    Quản lý sản phẩm
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    2
+                                </td>
+                                <td>
+                                    Quản lý danh mục
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    3
+                                </td>
+                                <td>
+                                    Quản lý hóa đơn
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    4
+                                </td>
+                                <td>
+                                    Quản lý tài khoản
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    5
+                                </td>
+                                <td>
+                                    Quản lý phân quyền
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                                <td>
+                                    <input type="checkbox" class="form-check-input">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <a class="nav-link mr-2" href="@Url.Action("QuanLyPhanQuyen","Home")">
+                        <span class="menu-title btn btn-outline-danger btn-fw">Quay lại</span>
+                    </a>
+                    <a class="nav-link ml-2" href="@Url.Action("QuanLyPhanQuyen","Home")">
+                        <span class="menu-title btn btn-outline-success btn-fw">Thêm mới</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

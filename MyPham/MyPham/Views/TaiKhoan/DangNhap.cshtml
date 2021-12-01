@@ -1,0 +1,59 @@
+﻿@model MyPham.Models.TaiKhoan
+
+@{
+    ViewBag.Title = "DangNhap";
+
+
+}
+
+<main id="main" class="d-flex justify-content-center">
+    <div class="auth-form-light text-left py-5 px-4 px-sm-5">
+        <div class="brand-logo">
+            <img src="https://lamdepz.com/wp-content/uploads/2021/03/logo-full-1.png" alt="logo">
+        </div>
+        <h4>Xin chào! Bắt đầu nào</h4>
+        <h6 class="font-weight-light">Đăng nhập để tiếp tục</h6>
+        @using (Html.BeginForm("DangNhap", "TaiKhoan", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            if (ViewBag.error != null)
+            {
+            <div class="form-group">
+                <div class="alert alert-danger">@ViewBag.error</div>
+            </div>}
+            <div class="form-group">
+                @Html.TextBoxFor(m => m.Email, "", new { @class = "form-control", @placeholder = "Email" })
+
+            </div>
+            <div class="form-group">
+                @Html.PasswordFor(m => m.MatKhau, new { @class = "form-control", @placeholder = "Password" })
+            </div>
+
+            <div class="form-group ">
+                <input type="submit" name="submit" class="btn-block btn-primary btn-lg font-weight-medium auth-form-btn" value="Đăng Nhập" />
+            </div>
+            @*<div class="my-2 d-flex justify-content-between align-items-center">
+                <div class="form-check">
+                </div>
+                <a href="@Url.Action("QuenMatKhau","Home")" class="auth-link text-black">Quên mật khẩu?</a>
+            </div>*@
+            <div class="text-center mt-4 font-weight-light">
+                Không có tài khoản? <a href="@Url.Action("DangKy", "TaiKhoan")" class="text-primary">Đăng ký</a>
+            </div>
+        }
+    </div>
+</main>
+<style>
+    .alert {
+        background: #ffdada;
+    }
+</style>
+<!-- container-scroller -->
+<!-- plugins:js -->
+<script src="../../vendors/base/vendor.bundle.base.js"></script>
+<!-- endinject -->
+<!-- inject:js -->
+<script src="../../js/off-canvas.js"></script>
+<script src="../../js/hoverable-collapse.js"></script>
+<script src="../../js/template.js"></script>
+

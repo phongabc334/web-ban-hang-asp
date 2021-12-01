@@ -1,0 +1,185 @@
+﻿@model MyPham.Models.SanPham
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-md-12 grid-margin">
+            <div class="d-flex justify-content-between flex-wrap">
+                <div class="d-flex align-items-end flex-wrap">
+                    <div class="mr-md-3 mr-xl-5">
+                        <h2>Xin chào, Admin</h2>
+                        <div class="d-flex">
+                            <i class="mdi mdi-home text-muted hover-cursor"></i>
+                            <p class="text-muted mb-0 hover-cursor">&nbsp;/&nbsp;Quản lý sản phẩm&nbsp;&nbsp;/&nbsp;Thông tin chi tiết sản phẩm</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Thông tin chi tiết sản phẩm</h4>
+                <form class="form-sample">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.AnhSP)</label>
+                                <div class="col-sm-9">
+                                    @{
+                                        //Lấy đường dẫn file ảnh
+                                        string ImagePath = "~/wwwroot/images/SanPham/" + Model.AnhSP;
+                                    }
+                                    <img src="@Url.Content(ImagePath)" width="300" class="" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.MaDM)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label"> @Html.DisplayFor(model => model.DanhMucSP.TenDM)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.Gia)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@String.Format("{0:#,###}", Model.Gia) đ</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.TenSP)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">  @Html.DisplayFor(model => model.TenSP)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.SoLuongTon)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.SoLuongTon)</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.ThuongHieu)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.ThuongHieu)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.XuatXu)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.XuatXu)</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.DungTich)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.DungTich)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.HangSX)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label"> @Html.DisplayFor(model => model.HangSX)</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.HangSX)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.TrongLuong)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div><div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.ChatLieu)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.ChatLieu)</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.ThanhPhan)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.ThanhPhan)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.CongDung)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.CongDung)</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.HuongDanSD)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.HuongDanSD)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div><div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.QuyCachDongGoi)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label">@Html.DisplayFor(model => model.QuyCachDongGoi)</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">@Html.LabelFor(model => model.GiamGia)</label>
+                                <div class="col-sm-9">
+                                    <label class="col-form-label"> @Html.DisplayFor(model => model.GiamGia)</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        <a class="nav-link" href="@Url.Action("Index","SanPhams")">
+                            <span class="menu-title btn btn-outline-primary btn-fw ">Quay lại</span>
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,129 @@
+﻿@model PagedList.IPagedList<MyPham.Models.SanPham>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "XemSanPhamTheoDanhMuc";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <link herf="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+}
+
+<div class="shop-page-title category-page-title page-title ">
+    <div class="page-title-inner flex-row  medium-flex-wrap container">
+        <div class="flex-col flex-grow medium-text-center">
+            <h1 class="shop-page-title is-xlarge categorycustom">@ViewBag.TenDM</h1>
+            <div class="is-small">
+                <nav class="woocommerce-breadcrumb breadcrumbs "><a href="@Url.Action("Index", "Home")">Trang chủ</a> <span class="divider">&#47;</span><span class="categorycustom"><firstletter>@ViewBag.TenDM</firstletter></span></nav>
+            </div>
+            <div class="category-filtering category-filter-row show-for-medium">
+                <a href="#" data-open="#shop-sidebar" data-visible-after="true" data-pos="left" class="filter-button uppercase plain">
+                    <i class="icon-equalizer"></i>
+                    <strong>Lọc</strong>
+                </a>
+                <div class="inline-block">
+                </div>
+            </div>
+        </div>
+        <div class="flex-col medium-text-center">
+            <form class="woocommerce-ordering" method="post" enctype='multipart/form-data' action="@Url.Action("XemSanPhamTheoDanhMuc", "SanPham")">
+                <select name="loc" class="orderby" aria-label="Đơn hàng của cửa hàng">
+                    <option name="loc" value="menu_order" selected="selected">Thứ tự mặc định</option>
+                    @if (ViewBag.Loc == "tang")
+                    {
+                        <option name="loc" value="tang" selected="selected">Theo giảm giá: thấp đến cao</option>
+                    }
+                    else
+                    {
+                        <option name="loc" value="tang">Theo giảm giá: thấp đến cao</option>
+                    }
+                    @if (ViewBag.Loc == "giam")
+                    {
+                        <option name="loc" value="giam" selected="selected">Theo giảm giá: cao xuống thấp</option>
+                    }
+                    else
+                    {
+                        <option name="loc" value="giam">Theo giảm giá: cao xuống thấp</option>
+                    }
+                </select>
+        
+            </form>
+        </div>
+    </div>
+</div>
+
+<main id="main" class="">
+
+    <div class="row category-page-row" style="display: flex; justify-content: center;">
+        <div class="col large-9">
+            <div class="shop-container">
+
+                <div class="woocommerce-notices-wrapper"></div>
+                <div class="products row row-small large-columns-4 medium-columns-3 small-columns-2 has-equal-box-heights equalize-box">
+                    @foreach (var item in Model)
+                    {
+                        string ImagePath = "~/wwwroot/images/SanPham/" + item.AnhSP;
+                        double giagiam = (Convert.ToDouble(@item.Gia) - Convert.ToDouble(@item.Gia) * (@item.GiamGia.HasValue ? @item.GiamGia.Value : 0.0));
+                        giagiam = Math.Round(giagiam / 1000) * 1000;
+                        double giam = (item.GiamGia.HasValue ? item.GiamGia.Value : 0) * 100;
+                        <div class="product-small col has-hover product type-product post-7098 status-publish first instock product_cat-bo-duong-da product_cat-my-pham-duong-da has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                            <div class="col-inner">
+                                <div class="absolute left top z-1">
+                                    <div class="callout badge badge-circle">
+                                        <div class="badge-inner secondary on-sale"><span class="onsale">-@giam %</span></div>
+                                    </div>
+                                </div>
+                                <div class="product-small box ">
+                                    <div class="box-image">
+                                        <div class="image-zoom">
+                                            <a href="@Url.Action("SanPham","SanPham", new { id = item.MaSP })">
+                                                <img width="247" height="247" style="max-height:247px" src="@Url.Content(ImagePath)"
+                                                     class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"
+                                                     sizes="(max-width: 247px) 100vw, 247px" />
+                                            </a>
+                                        </div>
+                                        <div class="image-tools is-small top right show-on-hover">
+                                        </div>
+                                        <div class="image-tools is-small hide-for-small bottom left show-on-hover">
+                                        </div>
+                                        <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                        </div>
+                                    </div>
+
+                                    <div class="box-text box-text-products text-center grid-style-2">
+                                        <div class="title-wrapper">
+                                            <p class="name product-title woocommerce-loop-product__title"><a href="@Url.Action("SanPham","SanPham", new { id = item.MaSP })" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">@item.TenSP</a></p>
+                                        </div>
+                                        <div class="price-wrapper">
+                                            <span class="price">
+                                                <del>
+                                                    <span class="woocommerce-Price-amount amount">
+                                                        <bdi>@String.Format("{0:#,###}", @item.Gia)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi>
+                                                    </span>
+                                                </del> <ins><span class="woocommerce-Price-amount amount"><bdi>@String.Format("{0:#,###}", @giagiam)<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                
+                <div class="container">
+                    <nav class="woocommerce-pagination">
+                        @Html.PagedListPager(Model, page => Url.Action("XemSanPhamTheoDanhMuc", new { page ,loc = ViewBag.Loc}), new PagedListRenderOptions()
+                   {
+                       LiElementClasses = new string[] { "page-number" },
+                       UlElementClasses = new string[] { "page-numbers", "nav-pagination", "links", "text-center" }
+                   })
+           
+                    </nav>
+                </div>
+
+            </div>
+            <!-- shop container -->
+        </div>
+    </div>
+
+</main>
+
